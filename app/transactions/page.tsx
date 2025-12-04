@@ -93,9 +93,9 @@ export default function TransactionsPage() {
   };
 
   return (
-    <div className="pb-20 bg-background min-h-screen">
+    <div className="pb-20 bg-white min-h-screen">
       {/* Header */}
-      <div className="sticky top-0 z-40 bg-background border-b border-border">
+      <div className="sticky top-0 z-40 bg-white border-b border-border">
         <div className="px-4 py-4 flex items-center gap-3">
           <button className="p-2 hover:bg-muted rounded-lg transition-colors">
             <ChevronLeft className="w-6 h-6" />

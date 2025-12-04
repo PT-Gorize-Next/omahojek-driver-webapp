@@ -11,9 +11,9 @@ import { BottomNav } from "@/components/navigation/bottom-nav";
 
 export default function HomePage() {
   return (
-    <div className="pb-20 bg-background">
+    <div className="pb-20 bg-white">
       {/* Header */}
-      <div className="sticky top-0 z-40 bg-background border-b border-border">
+      <div className="sticky top-0 z-40 bg-white border-b border-border">
         <div className="px-4 py-4 flex items-center justify-between">
           <div>
             <p className="text-sm text-muted-foreground">
