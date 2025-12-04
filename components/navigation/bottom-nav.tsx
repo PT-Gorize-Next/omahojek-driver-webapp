@@ -11,7 +11,7 @@ export function BottomNav() {
 
   const navItems = [
     { href: "/home", icon: Home, label: "Beranda" },
-    { href: "/create-order", icon: Plus, label: "Tambah Orderan" },
+    { href: "/create-order", icon: Plus, label: "Orderan" },
     { href: "/transactions", icon: History, label: "Riwayat Order" },
     { href: "/profile", icon: User, label: "Profil" },
   ];
